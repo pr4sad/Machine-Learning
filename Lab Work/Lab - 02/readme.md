@@ -8,7 +8,7 @@ This repository contains a simple implementation of the Gradient Descent algorit
 
 ## Notebook
 
-- **`Lab - 02.ipynb`**: This notebook provides a step-by-step implementation of gradient descent, including the use of momentum for faster convergence.
+- **`Lab_02.ipynb`**: This notebook provides a step-by-step implementation of gradient descent, including the use of momentum for faster convergence.
 
 ## Usage
 
