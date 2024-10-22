@@ -1,4 +1,4 @@
-# Gradient Descent Optimization
+# Linear Regression and Gradient Descent Optimization
 
 This repository contains a simple implementation of the Gradient Descent algorithm. The included Jupyter notebook demonstrates how to optimize a function using gradient descent.
 
