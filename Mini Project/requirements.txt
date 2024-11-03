@@ -1,0 +1,29 @@
+
+Requirements for Heart Failure Prediction Using Machine Learning
+
+````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````
+Data manipulation and analysis
+pandas==1.5.3
+
+Machine learning libraries
+scikit-learn==1.2.0
+
+Visualization libraries
+matplotlib==3.6.2
+seaborn==0.12.1
+
+Numerical computations
+numpy==1.23.5
+
+Jupyter Notebook
+jupyter==1.0.0
+
+`````````````````````````````````````````````````````````````````````````````````````````````````````````````````````
+
+You can adjust the version numbers as needed based on your development environment or specific compatibility requirements. To install the dependencies listed in this `requirements.txt`, users can run:
+
+```bash
+pip install -r requirements.txt
+``` 
+
+This will ensure that the necessary libraries are installed for your heart failure prediction project.
